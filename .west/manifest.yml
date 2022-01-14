@@ -1,0 +1,614 @@
+manifest:
+  remotes:
+    - name: github
+      url-base: git@github.com:AntoineGL
+  projects:
+  - name: module0
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module0
+
+  - name: module1
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module1
+
+  - name: module2
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module2
+
+  - name: module3
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module3
+
+  - name: module4
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module4
+
+  - name: module5
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module5
+
+  - name: module6
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module6
+
+  - name: module7
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module7
+
+  - name: module8
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module8
+
+  - name: module9
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module9
+
+  - name: module10
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module10
+
+  - name: module11
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module11
+
+  - name: module12
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module12
+
+  - name: module13
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module13
+
+  - name: module14
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module14
+
+  - name: module15
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module15
+
+  - name: module16
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module16
+
+  - name: module17
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module17
+
+  - name: module18
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module18
+
+  - name: module19
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module19
+
+  - name: module20
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module20
+
+  - name: module21
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module21
+
+  - name: module22
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module22
+
+  - name: module23
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module23
+
+  - name: module24
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module24
+
+  - name: module25
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module25
+
+  - name: module26
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module26
+
+  - name: module27
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module27
+
+  - name: module28
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module28
+
+  - name: module29
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module29
+
+  - name: module30
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module30
+
+  - name: module31
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module31
+
+  - name: module32
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module32
+
+  - name: module33
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module33
+
+  - name: module34
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module34
+
+  - name: module35
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module35
+
+  - name: module36
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module36
+
+  - name: module37
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module37
+
+  - name: module38
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module38
+
+  - name: module39
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module39
+
+  - name: module40
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module40
+
+  - name: module41
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module41
+
+  - name: module42
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module42
+
+  - name: module43
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module43
+
+  - name: module44
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module44
+
+  - name: module45
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module45
+
+  - name: module46
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module46
+
+  - name: module47
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module47
+
+  - name: module48
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module48
+
+  - name: module49
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module49
+
+  - name: module50
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module50
+
+  - name: module51
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module51
+
+  - name: module52
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module52
+
+  - name: module53
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module53
+
+  - name: module54
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module54
+
+  - name: module55
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module55
+
+  - name: module56
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module56
+
+  - name: module57
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module57
+
+  - name: module58
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module58
+
+  - name: module59
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module59
+
+  - name: module60
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module60
+
+  - name: module61
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module61
+
+  - name: module62
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module62
+
+  - name: module63
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module63
+
+  - name: module64
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module64
+
+  - name: module65
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module65
+
+  - name: module66
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module66
+
+  - name: module67
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module67
+
+  - name: module68
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module68
+
+  - name: module69
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module69
+
+  - name: module70
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module70
+
+  - name: module71
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module71
+
+  - name: module72
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module72
+
+  - name: module73
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module73
+
+  - name: module74
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module74
+
+  - name: module75
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module75
+
+  - name: module76
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module76
+
+  - name: module77
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module77
+
+  - name: module78
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module78
+
+  - name: module79
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module79
+
+  - name: module80
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module80
+
+  - name: module81
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module81
+
+  - name: module82
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module82
+
+  - name: module83
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module83
+
+  - name: module84
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module84
+
+  - name: module85
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module85
+
+  - name: module86
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module86
+
+  - name: module87
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module87
+
+  - name: module88
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module88
+
+  - name: module89
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module89
+
+  - name: module90
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module90
+
+  - name: module91
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module91
+
+  - name: module92
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module92
+
+  - name: module93
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module93
+
+  - name: module94
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module94
+
+  - name: module95
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module95
+
+  - name: module96
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module96
+
+  - name: module97
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module97
+
+  - name: module98
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module98
+
+  - name: module99
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module99
+
+  - name: module100
+    remote: github
+    repo-path: root
+    revision: main
+    path: modules/module100
+
+
+  self:
+    path: .
